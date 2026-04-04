@@ -70,7 +70,7 @@ Aplicativo oficial da maior feira agropecuária da região Norte.
 
 ### 🔹 Tic Tac Toe — Compose Multiplatform  
 Jogo da velha com Material You, título customizado e suporte para Desktop + Web.  
-🔗 **Repositório:** https://github.com/Rafael2616/12pxcas do GitHub
+🔗 **Repositório:** https://github.com/Rafael2616/Tic-Tac-Toe-You
 
 <div align="center">
   
