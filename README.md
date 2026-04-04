@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_FOTO_AQUI"
+  <img src="https://avatars.githubusercontent.com/u/93414086?v=4"
        alt="Banner - Rafael"
        width="100%"
        style="border-radius: 12px;" />
@@ -78,9 +78,9 @@ Jogo da velha com Material You, título customizado e suporte para Desktop + Web
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael2616&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael2616&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2616&aquiompact&theme=tokyonight&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafael2616&theme=tokyonight)
 
 </div>
 
