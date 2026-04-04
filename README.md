@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/93414086?v=4"
        alt="Banner - Rafael"
-       width="100%"
-       style="border-radius: 12px;" />
+       width="45%"
+       style="border-radius: 16px;" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Rafael</h1>
@@ -70,11 +70,7 @@ Aplicativo oficial da maior feira agropecuária da região Norte.
 
 ### 🔹 Tic Tac Toe — Compose Multiplatform  
 Jogo da velha com Material You, título customizado e suporte para Desktop + Web.  
-🔗 **Repositório:** https://github.com/Rafael2616/TocTacToeYou
-
----
-
-## 📈 Estatísticas do GitHub
+🔗 **Repositório:** https://github.com/Rafael2616/12pxcas do GitHub
 
 <div align="center">
   
@@ -82,6 +78,7 @@ Jogo da velha com Material You, título customizado e suporte para Desktop + Web
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafael2616&theme=tokyonight)
 
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael2616&theme=tokyonight)
 </div>
 
 ---
