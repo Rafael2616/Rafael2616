@@ -62,7 +62,7 @@ Adoro resolver problemas complexos, refinar desempenho e transformar boas ideias
 
 ### 🔹 InclusiMap — Acessibilidade inteligente para cadeirantes  
 App voltado para indicar locais acessíveis usando geolocalização, upload de imagens, Google Maps e acessibilidade real.  
-🔗 **Repositório:** https://github.com/Rafael2616/InlcusiMap
+🔗 **Repositório:** https://github.com/Rafael2616/InclusiMap
 
 ### 🔹 Agropec 2026 — Eventos e notificações avançadas  
 Aplicativo oficial da maior feira agropecuária da região Norte.  
