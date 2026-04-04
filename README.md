@@ -88,6 +88,7 @@ Jogo da velha com Material You, título customizado e suporte para Desktop + Web
 <div align="center">
 
 📧 **Email:** *rafaelmoura135790@gmail.com*
+
 💼 **LinkedIn:** *https://www.linkedin.com/in/rafael-de-moura-nascimento-68133a265*  
 
 </div>
@@ -96,4 +97,4 @@ Jogo da velha com Material You, título customizado e suporte para Desktop + Web
 
 <p align="center">
   Feito com ❤️ por Rafael.
-</p>>
+</p>
