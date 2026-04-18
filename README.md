@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/93414086?v=4"
        alt="Banner - Rafael"
-       width="35%"
+       width="30%"
        style="border-radius: 16px;" />
 </p>
 
